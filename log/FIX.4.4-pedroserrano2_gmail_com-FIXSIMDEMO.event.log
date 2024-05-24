@@ -1,0 +1,5 @@
+20240524-00:30:47: Session FIX.4.4:pedroserrano2@gmail_com->FIXSIMDEMO schedule is daily, 00:00:00-UTC - 00:00:00-UTC
+20240524-00:30:47: Created session: FIX.4.4:pedroserrano2@gmail_com->FIXSIMDEMO
+20240524-00:30:48: Configured socket addresses for session: [app.fixsim.com/50.57.231.209:15000]
+20240524-00:30:48: MINA session created: local=/192.168.15.4:55619, class org.apache.mina.transport.socket.nio.NioSocketSession, remote=app.fixsim.com/50.57.231.209:15000
+20240524-00:30:48: Disconnecting: Encountered END_OF_STREAM
